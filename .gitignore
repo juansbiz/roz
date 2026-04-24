@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+.cache/
+*.local
+.vscode/*
+!.vscode/settings.json
+.git-backups/
+
+# Large assets excluded from repo
+assets/fonts/
+git-backups/
